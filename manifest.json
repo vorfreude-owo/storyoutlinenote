@@ -1,0 +1,8 @@
+{
+  "name": "Story Outline Note",
+  "author": "Baby",
+  "version": "1.0.0",
+  "entry": "index.html",
+  "description": "A simple note-taking extension for story outlines.",
+  "requires": []
+}
